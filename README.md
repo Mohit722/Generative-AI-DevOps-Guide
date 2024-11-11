@@ -1,4 +1,4 @@
-# Generative AI for DevOps: Guide and Training
+# Generative AI for DevOps: Guide and Training By Mohit Tiwari
 
 This repository provides an in-depth guide on how Generative AI can enhance DevOps processes. The guide covers AI concepts, real-time use cases, and tools used in AI-powered DevOps workflows.
 
