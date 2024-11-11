@@ -755,8 +755,8 @@ How Pieces.app and Qodo.ai can be used by developers to enhance their workflows,
 
  
 
-Setting Up Pieces for Windows:
--------------------------------
+## Setting Up Pieces for Windows:
+----------------------------------
 
 1. Download Pieces for Windows:
    - Download the Pieces installer for Windows and run the installer.
