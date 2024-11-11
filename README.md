@@ -3,15 +3,14 @@
 This repository provides an in-depth guide on how Generative AI can enhance DevOps processes. The guide covers AI concepts, real-time use cases, and tools used in AI-powered DevOps workflows.
 
 ## Table of Contents
-- [Introduction to AI, Machine Learning, and Deep Learning:](#introduction)
-- [Generative AI Concepts and Its Relevance in DevOps](#generative-ai-concepts-and-its-relevance-in-devops)
-- [AI-Powered Operations in DevOps: AIOps, MLOps, and LLMOps](#ai-powered-operations-in-devops-aiops-mlops-and-llmops)
-- [Generative AI Use Cases for DevOps](#generative-ai-use-cases-for-devops)
-- [Popular Tools and Frameworks](#popular-tools-and-frameworks)
-- [Real-Time Use Cases of Generative AI in DevOps](#real-time-use-cases-of-generative-ai-in-devops)
-- [Generative AI in Cloud Environments](#generative-ai-in-cloud-environments)
-- [Prompt Engineering for DevOps with Generative AI](#prompt-engineering-for-devops-with-generative-ai)
-
+1. [Introduction to AI, Machine Learning, and Deep Learning](#1-introduction-to-ai-machine-learning-and-deep-learning)
+2. [Generative AI Concepts and Its Relevance in DevOps](#2-generative-ai-concepts-and-its-relevance-in-devops)
+3. [AI-Powered Operations in DevOps: AIOps, MLOps, and LLMOps](#3-ai-powered-operations-in-devops-aiops-mlops-and-llmops)
+4. [Generative AI Use Cases for DevOps](#4-generative-ai-use-cases-for-devops)
+5. [Popular Tools and Frameworks](#5-popular-tools-and-frameworks)
+6. [Real-Time Use Cases of Generative AI in DevOps](#6-real-time-use-cases-of-generative-ai-in-devops)
+7. [Generative AI in Cloud Environments](#7-generative-ai-in-cloud-environments)
+8. [Prompt Engineering for DevOps with Generative AI](#8-prompt-engineering-for-devops-with-generative-ai)
 
 ## 1. Introduction to AI, Machine Learning, and Deep Learning:
 -------------------------------------------------------------
