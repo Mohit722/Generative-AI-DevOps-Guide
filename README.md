@@ -663,7 +663,7 @@ Cloud providers have been integrating generative AI into their platforms, offeri
 
 
 
- 2. AWS Bedrock
+2. AWS Bedrock
 - Overview: AWS Bedrock is a fully managed platform offering foundational generative AI models for tasks such as natural language processing (NLP), image generation, and more. It provides a suite of pre-trained models from AWS and third-party providers, enabling developers to build and deploy AI-powered applications quickly.
 - Key Features:
   - Access to pre-trained models for generative AI, including language models and image generation models.
@@ -675,7 +675,7 @@ Cloud providers have been integrating generative AI into their platforms, offeri
 
 
 
- 3. Azure OpenAI Service
+3. Azure OpenAI Service
 - Overview: Azure OpenAI Service provides access to powerful models from OpenAI, including GPT (Generative Pretrained Transformer) for text generation and DALL-E for image generation. These models can be directly integrated into Azure DevOps pipelines for custom application development and AI-powered automation.
 - Key Features:
   - Access to OpenAI models (GPT, DALL-E, Codex) for text, image, and code generation.
