@@ -808,4 +808,4 @@ These tools enhance productivity, streamline DevOps tasks, and reduce manual cod
 
 ## License
 
-This repository is licensed under the MIT License.
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
