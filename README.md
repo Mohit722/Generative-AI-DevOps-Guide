@@ -651,8 +651,7 @@ Generative AI is significantly enhancing DevOps practices by automating routine 
 Cloud providers have been integrating generative AI into their platforms, offering tailored solutions for AI/ML workflows. These platforms simplify integration with DevOps pipelines, enabling teams to build, deploy, and scale AI models seamlessly while leveraging cloud-native tools for better efficiency and security.
 
 
-
- Google Cloud Platform (GCP) - Vertex AI
+1. Google Cloud Platform (GCP) - Vertex AI
 - Overview: Vertex AI is a unified platform designed for developing and deploying machine learning (ML) models. It simplifies model training, fine-tuning, and deployment, and is particularly well-suited for large-scale AI models such as Large Language Models (LLMs).
 - Key Features:
   - Model training, deployment, and management at scale.
@@ -664,7 +663,7 @@ Cloud providers have been integrating generative AI into their platforms, offeri
 
 
 
- AWS Bedrock
+ 2. AWS Bedrock
 - Overview: AWS Bedrock is a fully managed platform offering foundational generative AI models for tasks such as natural language processing (NLP), image generation, and more. It provides a suite of pre-trained models from AWS and third-party providers, enabling developers to build and deploy AI-powered applications quickly.
 - Key Features:
   - Access to pre-trained models for generative AI, including language models and image generation models.
@@ -676,7 +675,7 @@ Cloud providers have been integrating generative AI into their platforms, offeri
 
 
 
- Azure OpenAI Service
+ 3. Azure OpenAI Service
 - Overview: Azure OpenAI Service provides access to powerful models from OpenAI, including GPT (Generative Pretrained Transformer) for text generation and DALL-E for image generation. These models can be directly integrated into Azure DevOps pipelines for custom application development and AI-powered automation.
 - Key Features:
   - Access to OpenAI models (GPT, DALL-E, Codex) for text, image, and code generation.
