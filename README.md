@@ -7,7 +7,7 @@ This repository provides an in-depth guide on how Generative AI can enhance DevO
 2. [Generative AI Concepts and Its Relevance in DevOps](#2-generative-ai-concepts-and-its-relevance-in-devops)
 3. [AI-Powered Operations in DevOps: AIOps, MLOps, and LLMOps](#3-ai-powered-operations-in-devops-aiops-mlops-and-llmops)
 4. [Generative AI Use Cases for DevOps](#4-generative-ai-use-cases-for-devops)
-5. [Popular Tools and Frameworks](#5-popular-tools-and-frameworks)
+5. [Popular Tools and Frameworks for Generative AI in DevOps](#5-Popular-Tools-and-Frameworks-for-Generative-AI-in-DevOps)
 6. [Real-Time Use Cases of Generative AI in DevOps](#6-real-time-use-cases-of-generative-ai-in-devops)
 7. [Generative AI in Cloud Environments](#7-generative-ai-in-cloud-environments)
 8. [Prompt Engineering for DevOps with Generative AI](#8-prompt-engineering-for-devops-with-generative-ai)
